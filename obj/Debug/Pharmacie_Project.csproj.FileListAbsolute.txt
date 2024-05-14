@@ -1,0 +1,16 @@
+c:\users\abbass akay\documents\visual studio 2015\Projects\Pharmacie_Project\Pharmacie_Project\bin\Debug\Pharmacie_Project.exe.config
+c:\users\abbass akay\documents\visual studio 2015\Projects\Pharmacie_Project\Pharmacie_Project\bin\Debug\Pharmacie_Project.exe
+c:\users\abbass akay\documents\visual studio 2015\Projects\Pharmacie_Project\Pharmacie_Project\bin\Debug\Pharmacie_Project.pdb
+c:\users\abbass akay\documents\visual studio 2015\Projects\Pharmacie_Project\Pharmacie_Project\obj\Debug\Pharmacie_Project.csprojResolveAssemblyReference.cache
+c:\users\abbass akay\documents\visual studio 2015\Projects\Pharmacie_Project\Pharmacie_Project\obj\Debug\Pharmacie_Project.Properties.Resources.resources
+c:\users\abbass akay\documents\visual studio 2015\Projects\Pharmacie_Project\Pharmacie_Project\obj\Debug\Pharmacie_Project.csproj.GenerateResource.Cache
+c:\users\abbass akay\documents\visual studio 2015\Projects\Pharmacie_Project\Pharmacie_Project\obj\Debug\Pharmacie_Project.exe
+c:\users\abbass akay\documents\visual studio 2015\Projects\Pharmacie_Project\Pharmacie_Project\obj\Debug\Pharmacie_Project.pdb
+C:\Users\ABBASS AKAY\documents\visual studio 2015\Projects\Pharmacie_Project\Pharmacie_Project\obj\Debug\Pharmacie_Project.Produit.resources
+C:\Users\ABBASS AKAY\documents\visual studio 2015\Projects\Pharmacie_Project\Pharmacie_Project\obj\Debug\Pharmacie_Project.Client.resources
+C:\Users\ABBASS AKAY\documents\visual studio 2015\Projects\Pharmacie_Project\Pharmacie_Project\obj\Debug\Pharmacie_Project.login.resources
+C:\Users\ABBASS AKAY\documents\visual studio 2015\Projects\Pharmacie_Project\Pharmacie_Project\obj\Debug\Pharmacie_Project.login2.resources
+C:\Users\ABBASS AKAY\documents\visual studio 2015\Projects\Pharmacie_Project\Pharmacie_Project\obj\Debug\Pharmacie_Project.statistique2.resources
+F:\Pharmacie_Project\Pharmacie_Project\bin\Debug\Pharmacie_Project.exe.config
+F:\Pharmacie_Project\Pharmacie_Project\obj\Debug\Pharmacie_Project.exe
+F:\Pharmacie_Project\Pharmacie_Project\obj\Debug\Pharmacie_Project.pdb
